@@ -6,3 +6,8 @@
 * [day04 流程控制语句](day04-liu-cheng-kong-zhi-yu-ju.md)
 * [day05 循环语句](day05-xun-huan-yu-ju.md)
 
+## 第二部分
+
+* [day 01](di-er-bu-fen/day-01.md)
+* [day 02](di-er-bu-fen/day-02.md)
+
